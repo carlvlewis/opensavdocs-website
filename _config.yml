@@ -11,7 +11,7 @@ show_full_navigation: true
 logo: /siteicon.png
 description: Product documentation template for Jekyll.
 author: Carl V. Lewis
-  name: Carl V. Lewis
+  name: 
   email: carl@opensavannah.org
   twitter: carlvlewis
 social:
